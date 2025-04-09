@@ -4,7 +4,7 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/lowkidzhao/count.svg) visitor,Thank You!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowkidzhao&langs_count=8&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowkidzhao&langs_count=5&layout=donut)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lowkidzhao&bg_color=ffffff&color=000000&line=44cf73&point=5e7876&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
