@@ -1,6 +1,6 @@
 <!-- 顶部打字动画欢迎语 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+lowkidzhao!;Java+%2B+Node+Developer;Coding+is+my+Superpower!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+pushme!;Java+%2B+Node+Developer;Coding+is+my+Superpower!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
