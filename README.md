@@ -26,7 +26,7 @@
 
 ### ⏱️ Wakatime 编码时间
 <div style="margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@lowkidzhao&theme=radical&hide_border=true&layout=compact&custom_title=My%20Daily%20Coding%20Time" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@lowkidzhao&theme=radical&hide_border=true&layout=compact&custom_title=My%207-Day%20Coding%20Time" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"/>
 </div>
 
 ### 🏆 奖杯 + 🔥 连续贡献统计
