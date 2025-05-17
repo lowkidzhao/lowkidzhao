@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+pushme!;Coding+is+my+Superpower!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
+<!-- 自定义背景大图 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lowkidzhao/lowkidzhao/main/head.png" alt="banner" width="50%" style="border-radius: 12px;" />
+</p>
+
 ---
 
 <div style="max-width: 1000px; margin: auto; font-family: Arial, sans-serif;">
